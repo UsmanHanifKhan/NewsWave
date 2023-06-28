@@ -1,0 +1,11 @@
+
+.news-app_loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+img{
+    width: 4rem;
+
+}

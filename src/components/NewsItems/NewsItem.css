@@ -1,0 +1,17 @@
+
+.news-items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 5rem;
+  }
+  .hidden{
+    display: none;
+  }
+.news-item:hover{
+  transform: scale(1.09);
+  transition: 0.7s ease-in-out;
+}
